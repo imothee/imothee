@@ -1,16 +1,12 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=imothee&show_icons=true&theme=dark">
+
 ### Hi there 👋
 
-<!--
-**imothee/imothee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a way to simplify aggregating and sharing your tax information
+- 🌱 I’m currently learning to code more
+- 👯 I’m looking to collaborate on startup ideas, games, mentoring, investing in URM founders
+- 💬 Ask me about anything, I'm here to help
+- 📫 How to reach me: Twitter - @imothee, t@imothee.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 🤔 
+- 💪 Skills: none
