@@ -6,7 +6,7 @@
 - 🌱 I’m learning how to program Unreal games in c++
 - 👯 I’m looking to collaborate on startup ideas, games, mentoring, investing in URM founders
 - 💬 Ask me about anything, I'm here to help
-- 📫 How to reach me: Twitter - @imothee, t@imothee.com
+- 📫 How to reach me: t@imothee.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Once wrote some code that worked the first time
 - 💪 Skills: none
